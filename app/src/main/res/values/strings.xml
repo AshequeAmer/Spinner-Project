@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">Spinner Project</string>
+    <string-array name="dept_name">
+        <item>ICT 1st Batch</item>
+        <item>ICT 2nd Batch</item>
+        <item>ICT 3rd Batch</item>
+        <item>ICT 4th Batch</item>
+        <item>ICT 5th Batch</item>
+        <item>ICT 6th Batch</item>
+        <item>ICT 7th Batch</item>
+        <item>ICT 8th Batch</item>
+        <item>ICT 9th Batch</item>
+        <item>ICT 10th Batch</item>
+    </string-array>
+</resources>
